@@ -1,38 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 *{
   margin:0;
   padding: 0;  
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  
 }
+/* header başlangiç */
 .header
 {
-    height: 100vh;
 
+    height: 5vh;
+    font-weight: bold;
 }
 .navbar-style
 {
-box-shadow: 0 5px #efefef;
+    background-color:#27425835;
+    box-shadow: 0 5px 10px #efefef;
+}
+.navbar-header
+{
+  margin-top: 15px;
+
 }
 .logo
 {
-    text-decoration: none;
-    color: #3a6cf4;
-    text-transform: uppercase;
-    font-weight: 700;
-    font-size: 1.8em;
+ height: 48px; 
+ padding: 5px 10px ;  
+}
+.logo:hover
+{
+    color: darkorange;
+text-decoration-style: none;
 }
 .icon-bar
 {
     background-color: darkorange;
 }
-li a
+li a:hover
 {
-    text-transform: uppercase;
-    color: #3a6cf4;
-
+    color: darkorange;
 }
-.big-text
+/* header başlangiç */
+
+/* main başlangiç */
+
+.main
 {
-font-size: 52px;
-margin: 20px 0;
-color: darkorange;
 
+    padding-top: 50px;
 }
+/* main başlangiç */
+
+/*title baslangic*/
+.title
+{
+    color:black;
+    font-weight: bold;
+}
+/*title bitis*/
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+  }
+  .column img{
+      width: 60%;
+  }
+  .column2
+  {
+    float: left;
+    padding: 25px;
+    
+}
+/* Clear floats after the columns */
+.row:after {
+    display: table;
+    clear: both;
+  }
+  
