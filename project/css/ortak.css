@@ -4,11 +4,15 @@
 
     height: 5vh;
     font-weight: bold;
+    position: sticky;
+    z-index: 5657687;
+    top:0;
 }
 .navbar-style
 {
     background-color:#27425835;
     box-shadow: 0 5px 10px #efefef;
+    
 }
 .navbar-header
 {

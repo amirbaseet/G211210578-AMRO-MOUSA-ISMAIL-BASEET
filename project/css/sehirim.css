@@ -9,7 +9,7 @@
 }
 
 .carousel-inner img {
-  border:1px solid #000; width:300px; height:100px
+  border:1px solid #000; width: 800px;; height:500px
 }
 .slider
 {
@@ -19,4 +19,9 @@
 .sub-title
 {
   text-transform:  uppercase;
+}
+
+.slide
+{
+  padding: 15px ;
 }
