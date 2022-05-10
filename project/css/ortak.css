@@ -8,36 +8,13 @@
     z-index: 5657687;
     top:0;
 }
-.navbar-style
-{
-    background-color:#27425835;
-    box-shadow: 0 5px 10px #efefef;
-    
-}
+
 .navbar-header
 {
-  margin-top: 15px;
+  margin: 0.01%;
 
 }
-.logo
-{
- height: 48px; 
- padding: 5px 10px ;  
-}
-.logo:hover
-{
-    color: darkorange;
-text-decoration-style: none;
-}
-.icon-bar
-{
-    background-color: darkorange;
-}
-li a:hover
-{
-    color: darkorange;
-}
-/* header başlangiç */
+/* header bitis */
 
 /* main başlangiç */
 

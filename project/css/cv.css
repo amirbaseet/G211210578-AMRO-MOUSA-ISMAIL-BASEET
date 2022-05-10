@@ -11,3 +11,23 @@
 {
   padding: 50px;
 }
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+.column img{
+    width: 60%;
+}
+.title
+{
+    color:black;
+    font-weight: bold;
+}
+.column2
+{
+  float: left;
+  padding: 25px;
+  margin-top: 10px;
+  
+}
