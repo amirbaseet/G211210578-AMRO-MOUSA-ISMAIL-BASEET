@@ -23,7 +23,6 @@ if($mail == 'b1812100001@sakarya.edu.tr' and $pass == 'b1812100001')
     echo "Logged in successfully";
     echo "<br>";
     echo"Hoşgeldiniz “b1812100001”";
-    header("Refresh: 5; url=../html/cv.html");
     
 
 }else

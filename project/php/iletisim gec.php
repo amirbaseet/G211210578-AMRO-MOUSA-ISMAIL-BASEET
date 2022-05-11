@@ -13,6 +13,5 @@ echo "<br>";
 echo "message:"."&nbsp;".$msg."\n";
 echo "<br>";
 
-echo "Ana sayfa dön";
-echo '<a href=\\"../html/hakimda.html">Click here to visit site</a>';
+
 ?>

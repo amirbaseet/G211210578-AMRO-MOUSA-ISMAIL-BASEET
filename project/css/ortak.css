@@ -24,3 +24,16 @@
     padding-top: 50px;
 }
 /* main başlangiç */
+p
+{
+  text-align: justify;
+  width: fit-content;
+}
+image
+{
+  width: fit-content;
+}
+ul li
+{
+   text-align: justify;
+}
